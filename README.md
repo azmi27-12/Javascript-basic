@@ -13,7 +13,7 @@ Nella cartella assets sono presenti altre due cartelle:
 ## Funzionamento Counter
 
 Premendo "+" il valore letto nel display viene incrementato di 1 <br>
-Premendo "-" il valore del display viene decrementato di 1 
+Premendo "-" il valore del display viene decrementato di 1 <br>
 Premendo "reset" il valore letto da display viene riportato a zero
 
 
