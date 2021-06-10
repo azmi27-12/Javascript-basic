@@ -1,8 +1,11 @@
 # Javascript-basic
 
-# Counter Project
+## Counter Project
 
-Il file index contiene il codice html per la realizzazione di un semplice counter
+Il file index contiene il codice html per la realizzazione di un semplice counter <br>
 Nella cartella assets sono presenti altre due cartelle:
--css contenente il file style.css 
--javascript contenente il file main.js 
+
+<ul>
+  <li>css contenente il file style.css</li> 
+  <li>javascript contenente il file main.js</li> 
+</ul>
